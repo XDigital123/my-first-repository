@@ -2,7 +2,7 @@
 int main(){
 // Create an integer variable that will store the number we get from the user
 char myNum;
-
+// tofik khan
 // Ask the user to type a number
 printf("Type a name : \n");
 
